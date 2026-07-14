@@ -1,0 +1,62 @@
+# Core AI Framework
+langchain
+langchain-core
+langchain-community
+
+# OpenAI
+openai
+langchain-openai
+
+# Groq
+groq
+langchain-groq
+
+# Google Gemini
+google-generativeai
+langchain-google-genai
+
+# Mistral
+langchain-mistralai
+
+# Environment Variables
+python-dotenv
+
+# API & Web
+requests
+httpx
+
+# Data Handling
+pandas
+numpy
+
+# Vector Database
+faiss-cpu
+
+# Token Counting
+tiktoken
+
+# Utilities
+pydantic
+tenacity
+
+# Optional Agent Framework
+langgraph
+
+# Optional UI
+streamlit
+
+# Optional FastAPI Backend
+fastapi
+uvicorn
+
+# Optional Web Scraping
+beautifulsoup4
+lxml
+
+# Optional YouTube Automation
+google-api-python-client
+google-auth
+google-auth-oauthlib
+
+chromadb
+pypdf
